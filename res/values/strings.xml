@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Tél perdu</string>
-    <string name="hello_world">En cas de perte, téléphoner au 09 52 63 91 95 ou au 06 74 37 04 20. Merci d\'avance !</string>
+    <string name="hello_world">En cas de perte, appeler le 09 52 63 91 95 ou le 06 74 37 04 20. Merci d\'avance !</string>
     <string name="action_settings">Settings</string>
 
 </resources>
