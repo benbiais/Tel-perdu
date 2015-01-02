@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tel perdu</string>
+    <string name="hello_world">En cas de perte, appeler le 09 52 63 91 95 ou le 06 64 74 69 75. Merci d\'avance !</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
